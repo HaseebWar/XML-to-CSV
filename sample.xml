@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<company>
+<employee>
+ <name>Sita</name>
+ <phone>3290349906</phone>
+ <email>sita@example.com</email>
+ <date>2019-03-02 11:16:07</date>
+       <country>India</country>
+</employee>
+<employee>
+ <name>Sam</name>
+ <phone>9059098968</phone>
+ <email>sam@example.com</email>
+ <date>2019-06-01 10:06:07</date>
+  <country>America</country>
+</employee>
+<employee>
+ <name>Sammy</name>
+ <phone>6750390948</phone>
+ <email>sammy@example.com</email>
+ <date>2019-04-05 16:30:07</date>
+  <country>Africa</country>
+</employee>
+   <employee>
+ <name>Akaya</name>
+ <phone>6750390948</phone>
+ <email>akaya@example.com</email>
+ <date>2019-04-05 16:30:07</date>
+       <country>Afganistan</country>
+</employee>
+   <employee>
+ <name>Linda</name>
+ <phone>6750390948</phone>
+ <email>linda@example.com</email>
+ <date>2019-04-05 16:30:07</date>
+       <country>Africa</country>
+</employee>
+</company>
+
